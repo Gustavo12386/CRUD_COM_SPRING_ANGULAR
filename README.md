@@ -23,9 +23,9 @@
 - Execute o projeto Spring Boot
 
 ## 🚀 Como executar a interface
-- Clone o repositório
-- Selecione a pasta em sua IDE
-- Execute o comando `ng serve`
+- Clone o repositório pelo terminal pelo comando `git clone https://github.com/Gustavo12386/CRUD_COM_SPRING_ANGULAR.git`
+- Depois execute o comando `cd interface angular-spring`
+- Em seguida execute `ng serve`
 
 ## Imagem
 ![Captura de tela em 2024-12-09 19-21-29](https://github.com/user-attachments/assets/18521316-b314-47d9-b353-6a784c5d7c22)
