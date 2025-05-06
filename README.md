@@ -9,7 +9,7 @@
 - TypeScript,
 - Java 21
 - Spring Boot 3.4.2
-- Angula 19
+- Angular 19
 - MySQL.
 
 ## 🗒️ Roteiro
