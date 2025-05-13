@@ -8,7 +8,7 @@
 - CSS,
 - TypeScript,
 - Java 21
-- Spring Boot 3.4.2
+- Spring Boot 
 - Angular 19
 - MySQL.
 
